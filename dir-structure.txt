@@ -1,0 +1,9 @@
+Ansible/
+└── playbooks
+    ├── ansible.cfg
+    ├── employeesparsed.json
+    ├── freeipaplay.yml
+    └── inventory
+        └── freeipa.ini
+
+3 directories, 4 files
